@@ -5,7 +5,7 @@ import json
 api_key = '6c6fb2867bba11d24028b5fee7a9283b'
 
 # The content of the document you want to check
-document_content = """
+document_content = "
 MiniProject_SemIV
 Mask Detection System
 
