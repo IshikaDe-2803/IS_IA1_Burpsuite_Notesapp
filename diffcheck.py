@@ -1,18 +1,3 @@
-
-
-
-# The content of the document you want to check
-document_content = "
-MiniProject_SemIV
-Mask Detection System
-
-
-Umaima Yasir
-Ishika De
-Tanvi Deshpande
-Domain:
-UI/UX and Image Processing
-
 Abstract:
 After the new Coronavirus disease (COVID-19) case spread rapidly in Wuhan-China in December 2019, World Health Organization (WHO) confirmed that this is a dangerous virus that can be spread from humans to humans through droplets and airborne. As for prevention, wearing a face mask is essential while going outside or meeting with others. Moreover, developing the face mask detector is very crucial in this case.
 
