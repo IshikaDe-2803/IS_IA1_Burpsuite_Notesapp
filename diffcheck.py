@@ -9,7 +9,7 @@ document_content = "
 MiniProject_SemIV
 Mask Detection System
 
-Members:
+
 Umaima Yasir
 Ishika De
 Tanvi Deshpande
