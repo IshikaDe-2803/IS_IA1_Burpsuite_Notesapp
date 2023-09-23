@@ -1,4 +1,3 @@
-import requests hello
 
 
 # Your Diffbot API key
