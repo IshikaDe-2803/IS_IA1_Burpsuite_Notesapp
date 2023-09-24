@@ -2,5 +2,5 @@
 
 
 def print():
-    return "Hello"
+    return "Hello."
 
