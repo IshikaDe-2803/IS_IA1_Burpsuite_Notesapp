@@ -1,6 +1,6 @@
 # Test python file
 
-#print
+#print statement
 def print():
     return "Hello"
 
