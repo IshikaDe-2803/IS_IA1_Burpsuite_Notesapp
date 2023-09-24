@@ -2,3 +2,5 @@
 
 def print():
     return "Hello"
+def getNum():
+    return 1
